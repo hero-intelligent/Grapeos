@@ -1,0 +1,10 @@
+*.o
+*.obj
+*.elf
+*.map
+*.exe
+*.bin
+*.dis
+*.lst
+.vscode
+.VSCodeCounter
